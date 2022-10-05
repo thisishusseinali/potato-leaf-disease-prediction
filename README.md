@@ -1,1 +1,1 @@
-# potato-leaf-disease-prediction
+# potato leaf disease prediction
