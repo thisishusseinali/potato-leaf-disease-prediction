@@ -22,7 +22,7 @@ if img is not None:
     imageLocation.image(img)
     loading_msg = st.empty()
     loading_msg.text("Predicting...")
-    result, confidence = predict_class(image)
+    result, confidence = predict_class(img)
     st.write('Prediction : {}'.format(result))
     st.write('Confidence : {}%'.format(confidence))
 
