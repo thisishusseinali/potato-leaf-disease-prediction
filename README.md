@@ -4,5 +4,3 @@
 Here, we’ll develop an end-to-end Deep Learning project in the field of agriculture. We will create a simple Image Classification Model that will categorize Potato Leaf Disease using a simple and classic Convolutional Neural Network Architecture.
 
 ## Problem Statement for Potato Leaf Disease Prediction :
-Farmers who grow potatoes suffer from serious financial standpoint losses each year which cause several diseases that affect potato plants. 
-The diseases Early Blight and Late Blight are the most frequent. 
